@@ -1,0 +1,15 @@
+<header>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-2">
+				<button (click)="addWorkarea('200px', '200px', '1px solid #000', 'new block')">Create</button>
+			</div><!-- .col-sm-2 -->
+			<div class="col-sm-2">link 2</div><!-- .col-sm-2 -->
+			<div class="col-sm-2">link 3</div><!-- .col-sm-2 -->
+			<div class="col-sm-2">link 4</div><!-- .col-sm-2 -->
+			<div class="col-sm-2">link 5</div><!-- .col-sm-2 -->
+			<div class="col-sm-2">link 6</div><!-- .col-sm-2 -->
+		</div><!-- .row -->
+	</div><!-- .container -->
+</header>
+<app-workarea *ngFor="let workarea of workareas"> </app-workarea>
