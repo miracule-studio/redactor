@@ -1,9 +1,7 @@
-# redactor
+# Redactor
 
-Web Building
-
-Files From Directory redactor/src/
-
+## Web Building with Angular
+Files From Directory **redactor/src/**
 **src**
 * **app**
   	* **header**
