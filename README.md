@@ -2,7 +2,7 @@
 
 ## Web Building with Angular
 Files From Directory **redactor/src/**
-**src**
+
 * **app**
   	* **header**
      	* header.component.css
