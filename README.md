@@ -5,11 +5,11 @@ Files From Directory **redactor/src/**
 
 * **app**
   	* **header**
-     	* header.component.css
+     		* header.component.css
 		* header.component.html
 		* header.component.ts
 		* header.component.spec.ts
-	* **worcarea**
+	* **workarea**
 		* workarea.component.css
 		* workarea.component.html
 		* workarea.component.ts
